@@ -1,0 +1,25 @@
+body{
+    height: 90vh;
+    width: 94vw;
+    background-image: linear-gradient(to top,pink,lightblue);
+}
+h3{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 30px;
+}
+button{
+    font-family: "Roboto";
+    font-size: 15px;
+    background-color: black;
+    color: #ffffff;
+    border:0 none;
+    height: 9vh;
+    padding:6px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 30px;
+}
